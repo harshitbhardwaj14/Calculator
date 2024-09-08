@@ -1,2 +1,1 @@
-# Calculator
-This is a basic calculator
+THIS IS A DOCS APP WHERE YOU CAN EFFECTIVELY STORE YOUR DOCUMENTS
